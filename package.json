@@ -1,0 +1,11 @@
+{
+  "name": "Play",
+  "version": "0.1.0",
+  "author": "Pedro Teixeira",
+  "dependencies": {
+    "kinect": "*",
+    "domready": "*",
+    "ecstatic": "*",
+    "ws": "*"
+  }
+}

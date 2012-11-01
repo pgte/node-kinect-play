@@ -1,0 +1,3 @@
+#!/bin/bash
+set -e
+browserify  client/client.js -o client/bundle.js
